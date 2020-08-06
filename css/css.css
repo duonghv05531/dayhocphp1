@@ -1,179 +1,200 @@
-.container{
-    padding: 0px;
-    margin: 0 auto;
+.container {
+  padding: 0px;
+  margin: 0 auto;
 }
-.news-heading{
-    text-align: center;
+.news-heading {
+  text-align: center;
 }
-footer{height: 250px;
-    background-color: white;
-    text-align: center;
+.info {
+  float: left;
+  height: 500px;
 }
-.list-group{
-    font-size: 20px;
+footer {
+  height: 250px;
+  background-color: white;
+  text-align: center;
 }
-.navbar-light{
-    background-color: #02adf2;
-    height: 50px;
+.list-group {
+  font-size: 20px;
 }
-.a{
-    float: left;
-    padding-left: 10px;
+.navbar-light {
+  background-color: #02adf2;
+  height: 50px;
 }
-.b{
-    float: left;padding-left: 10px;
+.a {
+  float: left;
+  padding-left: 10px;
 }
-.c{
-    float: left;padding-left: 10px;
+.b {
+  float: left;
+  padding-left: 10px;
 }
-.tong{
-    padding-left: 90px;
+.c {
+  float: left;
+  padding-left: 10px;
 }
-.email{
-    width: 800px !important;    
+.tong {
+  padding-left: 90px;
 }
-.nav-link{
-    font-size: 20px !important;
+.email {
+  width: 800px !important;
 }
-.btn-outline-success:hover{
-    background-color: black;
-   
+.nav-link {
+  font-size: 20px !important;
 }
-.btn-outline-success{
-    color: #ccc;
-    border: 1px solid #ccc;
-   
+.btn-outline-success:hover {
+  background-color: black;
 }
-.row-h3{
-    background-color: red;
+.btn-outline-success {
+  color: #ccc;
+  border: 1px solid #ccc;
 }
-.btn-primary:hover{
-    background-color: white;
-   color: black;
+.row-h3 {
+  background-color: red;
 }
-.noo{width: 100%;text-align: center;
-    font-size: 20px;
-    background-color: blue;
-    color: white;
-   
+.btn-primary:hover {
+  background-color: white;
+  color: black;
 }
-.a:hover{
-    background-color: wheat;
+.noo {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  background-color: blue;
+  color: white;
 }
-.b{margin-left: 20px;background-color: white;
-    float: left;
+.a:hover {
+  background-color: wheat;
 }
-.c{margin-left: 20px;background-color: white;
-    float: left;
+.b {
+  margin-left: 20px;
+  background-color: white;
+  float: left;
 }
-.a{background-color: white;
-    float: left;
+.c {
+  margin-left: 20px;
+  background-color: white;
+  float: left;
 }
-.b:hover{background-color: wheat;
+.a {
+  background-color: white;
+  float: left;
 }
-.c:hover{background-color: wheat;
+.b:hover {
+  background-color: wheat;
 }
-.bo{
-    text-align: center;
+.c:hover {
+  background-color: wheat;
 }
-.noo:hover{
-    font-size: 20px;
-    background-color: white;
-    color: black;
-    
+.bo {
+  text-align: center;
 }
-
-.btn-primary{
-    background-color:black;
-    color: white;
-}
-.btn-primary:hover{padding-bottom: 20px;
-    background-color:white;
-    color: black;
-}
-.card-body26{
-    padding-top: 270px;
-    margin-left: 300px;
-}
-.card-body7{
-    text-align: center;
+.noo:hover {
+  font-size: 20px;
+  background-color: white;
+  color: black;
 }
 
-.shear{text-align: center;
-font-size: 20px; color: black;}
-.mo{font-size: 20px;
-  
+.btn-primary {
+  background-color: black;
+  color: white;
 }
-.card-body{
-line-height: 0.5;    
+.btn-primary:hover {
+  padding-bottom: 20px;
+  background-color: white;
+  color: black;
 }
-.tongn1{
-    border: 1px solid #ccc;
+.card-body26 {
+  padding-top: 270px;
+  margin-left: 300px;
 }
-.list-group-item{
-    width: 80%;
-    margin-left: 10%;
+.card-body7 {
+  text-align: center;
 }
-.col-img{
-    width: 10px;
-    height: 5000px;
-    float: left;
+
+.shear {
+  text-align: center;
+  font-size: 20px;
+  color: black;
 }
-input[type=text], select {
-    width: 100%;
-    padding: 8px 10px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid thistle;
-    border-radius: 4px;
-    box-sizing: border-box;
-  }
-  .ml:hover{
-      background-color: white;
-  }
-  input[type=submit] {
-    width: 100%;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: 0.4s;
-  }
-  
-  input[type=submit]:hover {
-    background-color: blue;
-  }
-  label{
-    font-weight: bold;
-    margin-top: 8px;
-    display: inline-block;
-  }
-  textarea{width: 100%;
-    padding: 10px 15px;
-    font-size: 18px;
-    border-radius: 10px;
-  }
-  .contact1 {
-    border-radius: 5px;
-    background-color: white;
-    padding: 20px;
-    margin-left:10px;
-  }
-  .contact1 h4{
-     padding: 10px;
-      padding-left: 0;
-      font-size: 26px;
-      color: red;
-  }
-  .logo{
-      padding-top: 15px;
-      text-align: center;
-  }
-  .logo>img{
-      height: 40px;
-      width: 150px;
-      margin-bottom: 10px;
-  }
+.mo {
+  font-size: 20px;
+}
+.card-body {
+  line-height: 0.5;
+}
+.tongn1 {
+  border: 1px solid #ccc;
+}
+.list-group-item {
+  width: 80%;
+  margin-left: 10%;
+}
+.col-img {
+  width: 10px;
+  height: 5000px;
+  float: left;
+}
+input[type="text"],
+select {
+  width: 100%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid thistle;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.ml:hover {
+  background-color: white;
+}
+input[type="submit"] {
+  width: 100%;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.4s;
+}
+
+input[type="submit"]:hover {
+  background-color: blue;
+}
+label {
+  font-weight: bold;
+  margin-top: 8px;
+  display: inline-block;
+}
+textarea {
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.contact1 {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  margin-left: 10px;
+}
+.contact1 h4 {
+  padding: 10px;
+  padding-left: 0;
+  font-size: 26px;
+  color: red;
+}
+.logo {
+  padding-top: 15px;
+  text-align: center;
+}
+.logo > img {
+  height: 40px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+table {
+  width: 100%;
+}

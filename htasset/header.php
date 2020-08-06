@@ -19,10 +19,13 @@ $cate = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <?php foreach ($cate as $c) : ?>
 
                     <nav class="navbar navbar-expand-lg navbar-light main-menu">
-                        <a style="color:white;font-size: 20px" href="ao_thun.html"><?= $c['cate_name'] ?></a>
+                        <a style="color:white;font-size: 20px" href="category.php?id=<?= $c['cate_id'] ?>"><?= $c['cate_name'] ?></a>
                     </nav>
 
                 <?php endforeach ?>
+                <nav class="navbar navbar-expand-lg navbar-light main-menu">
+                    <a style="color:white;font-size: 20px" href="./admin/products.php">Quan tri</a>
+                </nav>
             </ul>
             <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Tìm Kiếm - Ví dụ: áo thun, giày dép" aria-label="Search">
