@@ -1,0 +1,179 @@
+.container{
+    padding: 0px;
+    margin: 0 auto;
+}
+.news-heading{
+    text-align: center;
+}
+footer{height: 250px;
+    background-color: white;
+    text-align: center;
+}
+.list-group{
+    font-size: 20px;
+}
+.navbar-light{
+    background-color: #02adf2;
+    height: 50px;
+}
+.a{
+    float: left;
+    padding-left: 10px;
+}
+.b{
+    float: left;padding-left: 10px;
+}
+.c{
+    float: left;padding-left: 10px;
+}
+.tong{
+    padding-left: 90px;
+}
+.email{
+    width: 800px !important;    
+}
+.nav-link{
+    font-size: 20px !important;
+}
+.btn-outline-success:hover{
+    background-color: black;
+   
+}
+.btn-outline-success{
+    color: #ccc;
+    border: 1px solid #ccc;
+   
+}
+.row-h3{
+    background-color: red;
+}
+.btn-primary:hover{
+    background-color: white;
+   color: black;
+}
+.noo{width: 100%;text-align: center;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+   
+}
+.a:hover{
+    background-color: wheat;
+}
+.b{margin-left: 20px;background-color: white;
+    float: left;
+}
+.c{margin-left: 20px;background-color: white;
+    float: left;
+}
+.a{background-color: white;
+    float: left;
+}
+.b:hover{background-color: wheat;
+}
+.c:hover{background-color: wheat;
+}
+.bo{
+    text-align: center;
+}
+.noo:hover{
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    
+}
+
+.btn-primary{
+    background-color:black;
+    color: white;
+}
+.btn-primary:hover{padding-bottom: 20px;
+    background-color:white;
+    color: black;
+}
+.card-body26{
+    padding-top: 270px;
+    margin-left: 300px;
+}
+.card-body7{
+    text-align: center;
+}
+
+.shear{text-align: center;
+font-size: 20px; color: black;}
+.mo{font-size: 20px;
+  
+}
+.card-body{
+line-height: 0.5;    
+}
+.tongn1{
+    border: 1px solid #ccc;
+}
+.list-group-item{
+    width: 80%;
+    margin-left: 10%;
+}
+.col-img{
+    width: 10px;
+    height: 5000px;
+    float: left;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid thistle;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .ml:hover{
+      background-color: white;
+  }
+  input[type=submit] {
+    width: 100%;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.4s;
+  }
+  
+  input[type=submit]:hover {
+    background-color: blue;
+  }
+  label{
+    font-weight: bold;
+    margin-top: 8px;
+    display: inline-block;
+  }
+  textarea{width: 100%;
+    padding: 10px 15px;
+    font-size: 18px;
+    border-radius: 10px;
+  }
+  .contact1 {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    margin-left:10px;
+  }
+  .contact1 h4{
+     padding: 10px;
+      padding-left: 0;
+      font-size: 26px;
+      color: red;
+  }
+  .logo{
+      padding-top: 15px;
+      text-align: center;
+  }
+  .logo>img{
+      height: 40px;
+      width: 150px;
+      margin-bottom: 10px;
+  }
